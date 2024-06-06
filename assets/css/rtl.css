@@ -1,0 +1,10 @@
+body {
+    margin: '3#';
+    direction: rtl;
+    text-align: right;
+}
+
+.post, .page, .site-title, .site-description, .site-nav, .content {
+    direction: rtl;
+    text-align: right;
+}
