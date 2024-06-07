@@ -3,12 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 # טסטים של סיכומים להרצאות למי שמעוניין לתת דעה
 
 לחצו על הקישור לראות את הסיכום:
 
-- [יסודות, יחידה 3](summeryGeneration/page1.md)
-- [יסודות, יחידה 1](summeryGeneration/page2.md)
-- [יסודות, יחידה 3 אלטרנטיבה](summeryGeneration/page3.md)
+- [יסודות, יחידה 3](page1)
+- [יסודות, יחידה 1](page2)
+- [יסודות, יחידה 3 אלטרנטיבה](page3)

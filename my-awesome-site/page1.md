@@ -3,8 +3,6 @@ layout: page
 title: יסודות, יחידה 3
 ---
 
-<div style = "direction:rtl">
-
 # מבנה ה-DNA ותהליך העברת האינפורמציה הגנטית
 
 
