@@ -9,17 +9,3 @@ body {
     direction: rtl;
     text-align: right;
 }
-
-img {
-    margin: 20px !important;  
-    max-width: 350px !important; 
-    vertical-align: middle;
-}
-.wrapper {
-    width: 50vw;
-    max-width: 1300px !important; 
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 30px;
-    padding-left: 30px;
-  }
